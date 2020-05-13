@@ -1,0 +1,10 @@
+<Reports>
+    <Report>
+        <ReportName></ReportName>
+        <FileName></FileName>
+        <FileExtension></FileExtension>
+        <IsFileNameFullyTyped></IsFileNameFullyTyped>
+        <FileSource></FileSource>
+        <FileDestination></FileDestination>
+    </Report>
+</Reports>
